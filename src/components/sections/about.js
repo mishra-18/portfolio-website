@@ -147,7 +147,7 @@ const About = () => {
             </p>
             
             <p>
-              I also write <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
+              I also write <a href="https://medium.com/@mishra4475">
                 blogs
               </a> on Medium as a writer under the <u>TheDeepHub</u> publication. Aditionaly I like reading phylosophy
               and have knack for music; you'll find me with headphones all the time.
