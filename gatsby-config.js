@@ -5,7 +5,7 @@ module.exports = {
     title: 'Shubham Mishra',
     description:
       'The portfolio website for Shubham Mishra. ',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://mishraself.netlify.app', // No trailing slash allowed!
     image: '/logo.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@kianindeed',
   },
