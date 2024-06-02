@@ -1,0 +1,1 @@
+{"expireTime":9007200972044991000,"key":"transformer-remark-markdown-html-d046a70fa4f8226678b770945c0ebc93-gatsby-remark-external-linksgatsby-remark-imagesgatsby-remark-code-titlesgatsby-remark-prismjs-","val":"<p>Utilized Librosa to create MFCC map of 30 sec wav file and created a Convolution Neural Network and trained it on the mfcc data achieving accuracy of 87%.</p>"}
