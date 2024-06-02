@@ -142,15 +142,15 @@ const About = () => {
             <p>
               <b style={{color: "green"}}>My Goal: </b>I'm interested in development of models that help us gain deeper insights
               on how actually a particular architecture works and can be genenralized better on <b>Out-Of-Distribution</b> (OOD) data.
-              I'm also interested in frameworks that provide better understanding of how <b>Language Modles</b> can perform better on NLI tasks,
-              reducing their proness to <b>hallucinations</b>.
+              I'm also interested in frameworks that provide better understanding of how <b>Language Models</b> can perform better on NLI tasks,
+              reducing their proneness to <b>hallucinations</b>.
             </p>
             
             <p>
               I also write <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
                 blogs
               </a> on Medium as a writer under the <u>TheDeepHub</u> publication. Aditionaly I like reading phylosophy
-              and have knack for singing, you'll find me with headphones all the time.
+              and have knack for music; you'll find me with headphones all the time.
             </p>
 
             <p>Here are a few technologies I'm fairly profecient with:</p>

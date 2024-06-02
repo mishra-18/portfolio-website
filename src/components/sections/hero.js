@@ -65,8 +65,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Interested in leveraging novel Deep Learning techniques to 
-        solve meaningful problems. Check out my Experience and projects to know more about my background
+      Interested in leveraging novel Deep Learning techniques to solve meaningful problems.
+      Scroll down to check out my experience and projects to know more about my background
         {/* <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
           Upstatement
         </a> */}
