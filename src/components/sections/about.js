@@ -140,10 +140,11 @@ const About = () => {
             </p>
 
             <p>
-              <b style={{color: "green"}}>My Goal: </b>I'm interested in development of models that help us gain deeper insights
-              on how actually a particular architecture works and can be genenralized better on <b>Out-Of-Distribution</b> (OOD) data.
+              <b style={{color: "green"}}>My Goal: </b>I'm interested in development of architectures and pipelines that help us gain deeper insights
+              on how a particular model works and can be genenralized better on <b>Out-Of-Distribution</b> (OOD) data.
               I'm also interested in frameworks that provide better understanding of how <b>Language Models</b> can perform better on NLI tasks,
-              reducing their proneness to <b>hallucinations</b>.
+              reducing their proneness to <b>hallucinations</b>. I have hands-on experience writing production-level code and deploying it using Docker 
+              and cloud services. Please refer to my resume for more details.
             </p>
             
             <p>
@@ -153,7 +154,7 @@ const About = () => {
               and have knack for music; you'll find me with headphones all the time.
             </p>
 
-            <p>Here are a few technologies I'm fairly profecient with:</p>
+            <p>Here are a few technologies I'm fairly proficient with:</p>
           </div>
 
           <ul className="skills-list">
