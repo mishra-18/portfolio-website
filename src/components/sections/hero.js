@@ -65,12 +65,11 @@ const Hero = () => {
   const four = (
     <>
       <p>
-      Interested in leveraging novel Deep Learning techniques to solve meaningful problems.
-      <b> Scroll down</b> to check out my experience and projects to know more about my background
+      Interested in leveraging novel machine learning techniques to solve meaningful problems.
+      <b> Scroll down</b> to know more about my projects and experiences.
         {/* <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
           Upstatement
         </a> */}
-        .
       </p>
     </>
   );

@@ -1,5 +1,5 @@
 ---
-date: '7'
+date: '2'
 title: 'Autoencoders for Credit Card Fraud Detection'
 github: 'https://github.com/mishra-18/Credit-Card-Fraud-Detection'
 external: 'https://github.com/mishra-18/Credit-Card-Fraud-Detection'

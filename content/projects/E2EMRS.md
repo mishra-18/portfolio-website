@@ -1,5 +1,5 @@
 ---
-date: '8'
+date: '7'
 title: 'End-To-End Movie Recommendation System'
 github: 'https://github.com/mishra-18/MovieRecommendationSystem'
 external: 'https://github.com/mishra-18/MovieRecommendationSystem'

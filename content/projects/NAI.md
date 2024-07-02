@@ -1,5 +1,5 @@
 ---
-date: '9'
+date: '17'
 title: 'NutritionAI App'
 github: 'https://github.com/mishra-18/Nutrition-Facts-Based-LLM'
 external: 'https://github.com/mishra-18/Nutrition-Facts-Based-LLM'

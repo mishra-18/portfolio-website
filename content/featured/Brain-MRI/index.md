@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Segmentation for Tumor Detection'
 cover: './Brain-MRI.png'
 github: 'https://github.com/mishra-18/MRI-Segmentation'
