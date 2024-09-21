@@ -10,4 +10,4 @@ url: 'https://drive.google.com/file/d/1G_Ha8ZQqUXQaJV1QCmk10RNOC5rIRaHF/view?usp
 - Worked with various VLLMs (open-source/paid) and GNNs for OCR to replace the PaddleOCR solution, to enhance the retention of table structure in documents. 
 - Compare the results of open-source VLLMs with paid solutions and set custom benchmarks for OCR.
 - Integrated sophisticated Intent and Entity classification using wit ai and other open-source models, boosting NLP capabilities.
-- Created Python APIs to wrap various anomaly detection models, and worked on real-time audio processing (text2speech and speech2text), and high-precision visual image search, ensuring seamless production integration.
+- Created Python APIs to wrap various anomaly detection models, and worked on real-time speech2text and text2speech audio processing, and high-precision visual image search, ensuring seamless production integration.
