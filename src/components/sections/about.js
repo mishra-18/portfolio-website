@@ -135,15 +135,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hola! My name is Shubham, and I enjoy helping AI see and listen.
-              I'm about enter my 4th year as an undergraduate from LNCT Bhopal.
+              Hola! My name is Shubham, and I enjoy helping AI see, listen and communicate.
+              I'm in the 4th year of my undergraduate studies at LNCT Bhopal.
             </p>
 
-            <p>
+            <p> 
               <b style={{color: "green"}}>My Goal: </b>I'm interested in development of architectures and pipelines that help us gain deeper insights
               on how a particular model works and can be genenralized better on <b>Out-Of-Distribution</b> (OOD) data.
               I'm also interested in frameworks that provide better understanding of how <b>Language Models</b> can perform better on NLI tasks,
-              reducing their proneness to <b>hallucinations</b>. I have hands-on experience writing production-level code and deploying it using Docker 
+              reducing their proneness to <b>hallucinations</b>. I'm experienced optimizing language models with frameworks like vLLM and Titron. Additionally, I have hands-on experience working with production-level code and deployment with Docker 
               and cloud services. Please refer to my resume for more details.
             </p>
             
