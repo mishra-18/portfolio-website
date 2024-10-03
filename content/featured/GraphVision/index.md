@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'GraphVision - Creating segment topology'
+title: 'GraphVision'
 cover: './Graph.png'
 github: 'https://github.com/mishra-18/GraphVision'
 external: 'https://pypi.org/project/graphvision/'
