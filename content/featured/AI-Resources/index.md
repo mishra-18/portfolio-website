@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '4'
 title: 'Generate Study Resources'
 cover: './AIL.png'
 github: 'https://github.com/mishra-18/AI-Study-Material'

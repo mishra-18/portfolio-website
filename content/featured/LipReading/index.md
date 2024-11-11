@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '6'
 title: 'LipReading With LipNet'
 cover: './LIP.png'
 github: "https://github.com/mishra-18/lipnet-pytorch"

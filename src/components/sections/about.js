@@ -140,11 +140,10 @@ const About = () => {
             </p>
 
             <p> 
-              <b style={{color: "green"}}>My Goal: </b>I'm interested in development of architectures and pipelines that help us gain deeper insights
-              on how a particular model works and can be genenralized better on <b>Out-Of-Distribution</b> (OOD) data.
-              I'm also interested in frameworks that provide better understanding of how <b>Language Models</b> can perform better on NLI tasks,
-              reducing their proneness to <b>hallucinations</b>. I'm experienced in optimizing language models with vLLM and Triton. Additionally, I have hands-on experience working with production-level code and deployment with Docker 
-              and cloud services. Please refer to my resume for more details.
+              <b style={{color: "green"}}>My Goal: </b>I'm interested in the development of architectures and pipelines that help us gain deeper insights
+              into how a particular model works and how it can be generalized better on <b>Out-Of-Distribution</b> (OOD) data.
+              I'm also interested in frameworks that provide a better understanding of how <b>Language Models</b> can perform better on NLI tasks,
+              reducing their proneness to <b>hallucinations</b>. Additionally, I have sound knowledge of Statistics, Time Complexity, DSA, and Model inference and optimization (KV-caching, Paged Attention).
             </p>
             
             <p>
