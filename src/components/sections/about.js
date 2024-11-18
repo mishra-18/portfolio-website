@@ -142,14 +142,15 @@ const About = () => {
             <p> 
               <b style={{color: "green"}}>My Goal: </b>I'm interested in the development of architectures and pipelines that help us gain deeper insights
               into how a particular model works and how it can be generalized better on <b>Out-Of-Distribution</b> (OOD) data.
-              I'm also interested in frameworks that provide a better understanding of how <b>Language Models</b> can perform better on NLI tasks,
-              reducing their proneness to <b>hallucinations</b>. Additionally, I have sound knowledge of Statistics, Time Complexity, DSA, and Model inference and optimization (KV-caching, Paged Attention).
+              I'm also interested in frameworks that provide a better understanding of how <b>Language Models</b> can perform better on NLI tasks, bias-fairness and
+              reducing their proneness to <b>hallucinations</b>. I specialize in building RAG systems, fine-tuning models, and optimizing model inference, 
+              while also having a little knack for the development side of projects.
             </p>
             
             <p>
               I also write <a href="https://medium.com/@mishra4475">
                 blogs
-              </a> on Medium as a writer under the <u>TheDeepHub</u> publication, detailing the implementation of various Vision Transformer architectures. Aditionaly I like reading philosophy
+              </a> on Medium as a writer under the <u>TheDeepHub</u> publication, detailing the implementation of various Vision Transformer architectures. Aditionaly, I'm into reading philosophy
               and have knack for music; you'll find me with headphones all the time.
             </p>
 

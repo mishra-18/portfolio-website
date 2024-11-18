@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'GraphVision'
+title: 'Graph-Enhanced Visual Language Processing'
 cover: './Graph.png'
 github: 'https://github.com/mishra-18/GraphVision'
 external: 'https://pypi.org/project/graphvision/'
@@ -11,6 +11,6 @@ tech:
   - Graphs
 ---
 
-**Graph Vision** is a Python library facilitating the generation of topological representations for image segments.
+**Graph Vision** is a Python library that aims to create topological maps for an environment connecting neighboring image segments, capturing each segment's spatial and semantic feature embeddings.
 
-It also allows performing **visual queries** on the topological graph and retains not only the spatial but also semantic information for each segment, making it very useful for various tasks in **robotics**, **localization** and **Game Dev**. Check it out on [PyPI](https://pypi.org/project/graphvision/)
+Enables localization of objects relative to one another in the topology with language description of the objects using Dijkstra's algorithm. Check it out on [PyPI](https://pypi.org/project/graphvision/)
