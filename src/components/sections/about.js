@@ -150,7 +150,7 @@ const About = () => {
             <p>
               I also write <a href="https://medium.com/@mishra4475">
                 blogs
-              </a> on Medium as a writer under the <u>TheDeepHub</u> publication, detailing the implementation of various Vision Transformer architectures. Aditionaly, I'm into reading philosophy
+              </a> on Medium as a writer under the <u>TheDeepHub</u> publication, detailing the implementation of various deep learning architectures (ViTs, CLIP, GPT, etc.). Aditionaly, I'm into reading philosophy
               and have knack for music; you'll find me with headphones all the time.
             </p>
 
